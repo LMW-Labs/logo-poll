@@ -164,7 +164,7 @@ function LogoCard({
           />
           <Image
             src={`/logos/${logo.filename}`}
-            alt={`Luther Riley Enterprises ${logo.label} logo concept`}
+            alt={`${logo.label} logo concept`}
             width={260}
             height={180}
             className="relative z-10 object-contain max-h-[180px] max-w-[260px]"
@@ -227,7 +227,7 @@ function LogoCard({
 // ---------------------------------------------------------------------------
 
 export default function PollForm() {
-  const [reviewerName, setReviewerName] = useState("Dr. Riley");
+  const [reviewerName, setReviewerName] = useState("");
   const [ratings, setRatings] = useState<LogoRating[]>(
     LOGOS.map((l) => ({ option_id: l.id, stars: null, comment: "" }))
   );
@@ -332,7 +332,7 @@ export default function PollForm() {
           transition={{ delay: 0.3 }}
           className="text-3xl md:text-4xl font-bold text-white mb-4"
         >
-          Thanks, Coach.
+          Thank you.
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 20 }}

@@ -1,7 +1,7 @@
 export const INTRO_COPY = {
-  eyebrow: "Luther Riley Enterprises — Brand Identity Review",
+  eyebrow: "Brand Identity Review",
   headline: "Let's find your mark.",
-  body: "These are 4 directions for the Luther Riley Enterprises logo. Don't overthink it — go with your gut. Rate each one, drop a quick note on what works or what's off, and pick your favorite. Your feedback shapes the final design — and the whole look of your brand.",
+  body: "These are 4 directions for the brand logo. Don't overthink it — go with your gut. Rate each one, drop a quick note on what works or what's off, and pick your favorite. Your feedback shapes the final design — and the whole look of your brand.",
 };
 
 export const LOGOS = [

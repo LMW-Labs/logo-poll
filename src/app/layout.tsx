@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Logo Review — Luther Riley Enterprises",
+  title: "Logo Review — Brand Identity Poll",
   description:
-    "Rate and review the Luther Riley Enterprises brand mark concepts.",
+    "Rate and review brand mark concepts.",
   robots: { index: false, follow: false },
 };
 

@@ -49,7 +49,7 @@ export default function PollPage() {
       {/* Footer */}
       <footer className="border-t border-white/5 py-8 px-6 text-center">
         <p className="text-brand-gray/40 text-xs tracking-widest uppercase">
-          Luther Riley Enterprises &bull; Building Champions, Transforming Leaders
+          Brand Identity Review &bull; Logo Poll
         </p>
       </footer>
     </main>

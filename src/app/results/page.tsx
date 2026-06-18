@@ -93,7 +93,7 @@ export default async function ResultsPage({
             </p>
           </div>
           <span className="text-brand-orange text-sm font-semibold tracking-widest uppercase">
-            Luther Riley Enterprises
+            Brand Identity Review
           </span>
         </div>
 
