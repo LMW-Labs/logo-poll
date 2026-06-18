@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# env — never commit real credentials
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
